@@ -1,0 +1,4 @@
+packages:
+  - "anchor"
+  - "apps/*"
+  - "packages/*"

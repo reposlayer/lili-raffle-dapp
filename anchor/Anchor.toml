@@ -1,0 +1,17 @@
+[features]
+seeds = true
+skip-lint = false
+
+[programs.localnet]
+lili_raffle_program = "RaFfle111111111111111111111111111111111111"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+local = "ts-node scripts/deploy.ts local"
+devnet = "ts-node scripts/deploy.ts devnet"
