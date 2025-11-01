@@ -1,5 +1,10 @@
 # Raffle dApp Starter
-
+    ██╗     ██╗██╗     ██╗     ██████╗██╗     ██╗
+    ██║     ██║██║     ██║    ██╔════╝██║     ██║
+    ██║     ██║██║     ██║    ██║     ██║     ██║
+    ██║     ██║██║     ██║    ██║     ██║     ██║
+    ███████╗██║███████╗██║    ╚██████╗███████╗██║
+    ╚══════╝╚═╝╚══════╝╚═╝     ╚═════╝╚══════╝╚═╝
 Full-stack Solana raffle template with an Anchor program, TypeScript SDK generator, and Vite + React front-end. Use this to launch on-chain raffles with configurable entry price, max tickets, and reveal windows.
 
 ## Stack
